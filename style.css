@@ -35,18 +35,19 @@ header {
   border-radius: 8px;
 }
 
-button {
-  background-color: #8e3b46;
+.whatsapp-button {
+  display: inline-block;
+  background-color: #25D366;
   color: white;
   padding: 0.5rem 1rem;
-  border: none;
-  margin-top: 1rem;
-  cursor: pointer;
+  text-decoration: none;
   border-radius: 8px;
+  margin-top: 1rem;
+  transition: background-color 0.3s ease;
 }
 
-button:hover {
-  background-color: #6a2d37;
+.whatsapp-button:hover {
+  background-color: #1ebd5b;
 }
 
 footer {
