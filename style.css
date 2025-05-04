@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #111184;
+  background-color: #643843;
   color: white;
   padding: 1rem;
   text-align: center;
@@ -35,25 +35,24 @@ header {
   border-radius: 8px;
 }
 
-.whatsapp-button {
-  display: inline-block;
-  background-color: #25D366;
+button {
+  background-color: #8e3b46;
   color: white;
   padding: 0.5rem 1rem;
-  text-decoration: none;
-  border-radius: 8px;
+  border: none;
   margin-top: 1rem;
-  transition: background-color 0.3s ease;
+  cursor: pointer;
+  border-radius: 8px;
 }
 
-.whatsapp-button:hover {
-  background-color: #1ebd5b;
+button:hover {
+  background-color: #6a2d37;
 }
 
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #111184;
+  background-color: #643843;
   color: white;
   margin-top: 2rem;
 }

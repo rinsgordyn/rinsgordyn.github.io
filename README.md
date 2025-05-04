@@ -4,7 +4,7 @@ Website sederhana untuk mempromosikan dan menjual gorden secara online.
 
 ## Fitur
 - Tampilan dua produk gorden dengan gambar dan harga
-- Tombol beli yang menampilkan link ke WhatsApp
+- Tombol beli yang menampilkan alert konfirmasi
 - Desain responsif dan bersih
 
 ## Cara Menjalankan
